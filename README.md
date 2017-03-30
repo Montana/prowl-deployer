@@ -16,11 +16,11 @@ Once the Prowl deployer is installed you must setup the basic configuration. In 
 
    <pre>prowldeployer setup --supervisor-user prowl --deployer-home /home/prowl --install all</pre>
 
-This command will install all needed dependicies to get Deployer up & running. It will configure nginx and supervisord to be running at as soon as you start the VPS. Also will create a sudoers file to give permissions to the specific users.
+This command will install all needed dependicies to get Deployer up & running. It will configure nginx and supervisord to be running at as soon as you start the VPS. Also will create a sudoers file to give permissions to the specific users
 
    <pre>prowldeployer server --ssh set</pre>
 
-This command will create a brand new SSH instance. It's the same as running ssh-keygen -t rsa. You MUST run this command with the user you set the system up with, in this example we used Prowl.
+This command will create a brand new SSH instance. It's the same as running ssh-keygen -t rsa. You MUST run this command with the user you set the system up with, in this example we used Prowl
 
 ### Django Setup
 
