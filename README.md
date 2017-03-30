@@ -1,4 +1,4 @@
-![deployer](http://www.getprowl.com/deployer.png)
+![deployer](http://www.getprowl.com/images/deployer.png)
 
 ## Prowl Deployer
 
