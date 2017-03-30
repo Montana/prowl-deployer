@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function install_packages {
 	local PKG_NAME
 	local PKG_OK
