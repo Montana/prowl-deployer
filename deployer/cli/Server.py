@@ -1,7 +1,7 @@
-# -*- encoding: utf8 -*-
 import sys, os
 from subprocess import call, PIPE
 import argparse
+import south
 from colorama import Fore
 from deployer.controller import Server
 from deployer.controller.Info import check_if_present
