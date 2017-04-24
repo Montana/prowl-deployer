@@ -1,5 +1,3 @@
-![deployer](http://www.getprowl.com/images/deployer.png)
-
 ## Prowl Deployer
 
 A Smart command line tool to deploy/maintain small Django applications easily through VPS instances. Prowl Deployer is useful for EC2 and DigitalOcean instances that you want to quickstart.
